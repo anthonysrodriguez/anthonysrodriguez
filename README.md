@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello There my name is Anthony
+# I am a 20 year old programmer
+# Currently there's not much on my profile i have kept most of my projects private 
 
 <!--
 **anthonysrodriguez/anthonysrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
